@@ -20,3 +20,7 @@
 # Amaliyot
 
 * onPause, onStop, onDestroyga ishonib qolish kerak emas, xavf yuqori bo'lsa sinxronizatsiyadan ko'proq foydalangan yaxshi, agar xavf kam bo'lsa ulardan foydalanish mumkin
+
+# So'z oxiri
+
+Bu shaxsiy izlanish asosida yozilayotgan narsa va xato xulosalar ham bo'lishi mumkin, agar siz biror xatoni topsangiz xabar bering :)
