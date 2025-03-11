@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AppComponents"
 include(":activity")
- 
+include(":savedinstance")
